@@ -1,6 +1,6 @@
 #include "envoy/registry/registry.h"
 #include "envoy/server/guarddog_config.h"
-#include "envoy/watchdog/v3alpha/abort_action.pb.h"
+#include "envoy/watchdog/v3/abort_action.pb.h"
 
 #include "source/common/watchdog/abort_action_config.h"
 
